@@ -1,5 +1,5 @@
 ## Veronika Kukhta
-_+375296385188_ || email: _v.kyxta@gmail.com_ || telegram: _@veronkyxta
+_+375296385188_ || email: _v.kyxta@gmail.com_ || telegram: _@veronkyxta_
 
 I want to become a good developer. I've got a huge interest in web-development. I am ready to improve my skills.
 I've started learning Web fives years ago.
@@ -21,4 +21,4 @@ I've started learning Web fives years ago.
 * Basic of Git
 * VS Code
 			
-## English - Pre-Intermediate	
+#### English - Pre-Intermediate	
