@@ -1,5 +1,5 @@
 ## Veronika Kukhta
-_+375296385188_ || email: _v.kyxta@gmail.com_
+_+375296385188_ || email: _v.kyxta@gmail.com_ || telegram: _@veronkyxta
 
 I want to become a good developer. I've got a huge interest in web-development. I am ready to improve my skills.
 I've started learning Web fives years ago.
