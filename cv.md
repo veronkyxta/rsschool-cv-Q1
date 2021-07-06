@@ -8,7 +8,7 @@ I've started learning Web fives years ago.
 
 * I've passed an initial course of Front-end at _It-academy_ in 2016 years
 * I've been learning course of Web-development on-line since Apr. 2020 so far
-
+* RS School since Sep. 2020 so far
 		
 #### My Skills:
 
