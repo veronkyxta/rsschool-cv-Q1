@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.wrapper {
+    display: flex;
+    
+    max-width: 100%;
+}
+.profile{
+    background-color: #000;
+    width: 28.125rem;
+    margin-left: 5%;
+    margin-bottom: 2.5rem;
+}
+h1 {
+    color: white;
+    padding: 1.875rem 0 1.25rem 0;
+    text-transform: uppercase;
+    font-weight: normal;
+    letter-spacing: 6px;
+    text-align: center;
+}
+.items {
+   color: white;
+   padding: 1.25rem 0 3rem 2.5rem;
+   width: 21.875rem; 
+   
+}
+.descr {
+   line-height: 21px;
+   font-weight: normal;
+   padding-bottom: 1.25rem;
+   letter-spacing: 2px;
+}
+h3 {
+   padding-top: 1rem;
+   padding-bottom: 1.25rem; 
+   text-transform: uppercase;
+   font-weight: normal;
+   letter-spacing: 3px;
+}
+.line {
+    width: 45%;
+    height: 3px;
+    background-color: #fff;
+}
+.contacts {
+   color: white;
+   padding: 3rem 0 1.25rem 2.5rem;
+   width: 18.75rem; 
+}
+img.tel, img.viber, img.email, img.telega, img.insta, img.location {
+   background-color: #fff; 
+   margin-right: 1.25rem;
+}
+.contacts_tel, .contacts_telegram, .contacts_viber, .contacts_mail, .contacts_instagram, .contacts_location {
+    display: flex;
+    margin-bottom: 1.25rem;
+    align-items: center;
+}
+.tel_text, .viber_text, .email_text, .telega_text, .insta_text, .location_text{
+    color: white;
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-size: normal;
+    
+}
+.skills {
+   width: 100%;
+    
+}
+.skills_line {
+   height: 4px;
+   background-color: black;
+   width: 100%;
+   margin-top: 16rem;
+} 
+h4 {
+    text-transform: uppercase;
+   font-weight: bolder;
+   letter-spacing: 3px;
+   padding-bottom: 1.875rem;
+   padding-top: 3.125rem;
+   font-size: 1.5625rem;
+}
+.learn {
+    margin-left: 10%;
+    width: 80%;
+}
+.education_text {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.25rem;
+    letter-spacing: 2px;
+    list-style-type: none;
+}
+.education_descr {
+    font-weight: normal;
+    text-transform: none;
+    color: gray;
+    font-size: 1.25rem;
+}
+.learn_skills {
+    margin-left: 10%;
+    width: 80%;
+    
+}
+.skills_text {
+    list-style-type: square;
+    padding-left: 1.25rem;
+    color: gray;
+    font-size: 1.25rem;
+}
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    min-height: 4rem;
+    padding-right: 1.25rem;
+    padding-left: 1.25rem;
+}
+.github {
+    background-color: #fff;
+    border-radius: 100%;
+}
+.footer_logo {
+    background-color: #fff;
+    height: auto;
+    width: 6rem;
+}
+#copyright {
+    color: #fff;
+}
